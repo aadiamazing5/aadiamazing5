@@ -1,4 +1,4 @@
-## Hey there, im Aadi! Welcome to my Github portfolio 👋
+## Hey, im Aadi! Welcome to my Github portfolio 👋
 
 ### Check out my [website][website] to learn more about me and my projects!
 
