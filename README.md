@@ -6,4 +6,4 @@
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aadiamazing5)] -->
 
-[website]: https://aadiamazing5.github.io/
+[website]: http://www.aadianjaria.ca/
